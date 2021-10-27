@@ -3,7 +3,7 @@ public class Elmas {
 
 	public static void main(String[] args) {
 				//Top left.
-				//I'm trying.
+				//I'm trying and can't figure it out.
 				/*
 				for (int a = 1; a <= 5; a++)
 				{
