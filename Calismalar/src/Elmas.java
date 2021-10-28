@@ -4,7 +4,6 @@ public class Elmas {
 	public static void main(String[] args) {
 				//Top left.
 				//I'm trying and can't figure it out.
-				//Let's give it one more try.
 				/*
 				for (int a = 1; a <= 5; a++)
 				{
